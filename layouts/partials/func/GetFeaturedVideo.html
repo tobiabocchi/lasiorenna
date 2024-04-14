@@ -1,0 +1,7 @@
+{{ $linkToCover := "" }}
+{{ $matches := "feature,cover" }}
+{{ with .Params.featured_video }}
+  {{ $linkToCover = . }}
+{{ end }}
+
+{{ return $linkToCover }}
