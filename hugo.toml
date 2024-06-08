@@ -5,7 +5,7 @@ theme = 'ananke'
 SectionPagesMenu = "main"
 #Paginate = 9
 googleAnalytics = "G-DD2J2SJ5ZS"
-enableRobotsTXT = true
+enableRobotsTXT = false
 
 defaultContentLanguage = "it"
 [languages]
