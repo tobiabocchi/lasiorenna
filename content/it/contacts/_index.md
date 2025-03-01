@@ -10,6 +10,7 @@ Località Vizzola Monte, 33, 43045 Vizzola PR
 
 Ci trovate anche su [Google Maps](https://goo.gl/maps/TChJVdMVU5KMjmMi6) e [Instagram](https://www.instagram.com/lasiorenna/)!
 
-In caso di bisogno, puoi contattarci usando il form qua sotto!
+In caso di bisogno, puoi contattarci [via mail](mailto:info@lasiorenna.it) oppure
+usando il form qua sotto!
 
 {{< form-contact action="https://formspree.io/f/mbjvgojl"  >}}

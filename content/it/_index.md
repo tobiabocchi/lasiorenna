@@ -13,4 +13,7 @@ anni sulle colline con vista sulla Valtaro. Tra frutteti e un tratto della via
 Francigena, un rifugio immerso nel verde, con la possibilità di gustare prelibatezze
 nell'annesso agriturismo.
 
+> **Note for the English-speaking visitors**: you can find the English version of
+> this website [here](/en/).
+
 Ecco alcune informazioni che potete trovare sul nostro sito:
